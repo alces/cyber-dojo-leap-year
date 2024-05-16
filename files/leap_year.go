@@ -1,5 +1,9 @@
 package leapyear
 
 func isLeap(year int) bool {
-    return true
+    if year%4 == 0 {
+        return true
+    }
+    
+    return false
 }
