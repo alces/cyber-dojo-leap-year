@@ -5,6 +5,10 @@ import (
     "github.com/stretchr/testify/assert"
 )
 
+func Test1900ShouldNotBeLeap(t *testing.T) {
+    assert.False(t, isLeap(1900))
+}
+
 func Test1917ShouldNotBeLeap(t *testing.T) {
     assert.False(t, isLeap(1917))
 }
