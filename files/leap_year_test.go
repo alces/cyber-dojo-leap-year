@@ -8,3 +8,7 @@ import (
 func Test1917ShouldNotBeLeap(t *testing.T) {
     assert.False(t, isLeap(1917))
 }
+
+func Test1980ShouldBeLeap(t *testing.T) {
+    assert.False(t, isLeap(1980))
+}

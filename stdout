@@ -1,2 +1,8 @@
-PASS
-ok  	_/sandbox	0.002s
+--- FAIL: Test1980ShouldBeLeap (0.00s)
+    leap_year_test.go:13: 
+        	Error Trace:	leap_year_test.go:13
+        	Error:      	Should be false
+        	Test:       	Test1980ShouldBeLeap
+FAIL
+exit status 1
+FAIL	_/sandbox	0.002s
