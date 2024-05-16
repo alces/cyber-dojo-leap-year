@@ -123,5 +123,21 @@
       4,
       139111
     ]
+  },
+  {
+    "duration": 4.220749,
+    "colour": "green",
+    "predicted": "green",
+    "revert_if_wrong": "off",
+    "index": 8,
+    "time": [
+      2024,
+      5,
+      16,
+      6,
+      43,
+      49,
+      555766
+    ]
   }
 ]

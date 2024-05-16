@@ -1,8 +1,2 @@
---- FAIL: Test2000ShouldBeLeap (0.00s)
-    leap_year_test.go:21: 
-        	Error Trace:	leap_year_test.go:21
-        	Error:      	Should be true
-        	Test:       	Test2000ShouldBeLeap
-FAIL
-exit status 1
-FAIL	_/sandbox	0.002s
+PASS
+ok  	_/sandbox	0.002s
